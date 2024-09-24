@@ -1,0 +1,15 @@
+<div class="read-more-container">
+    <a href="#popup" class="read-more">Read More &rarr;</a>
+</div>
+
+<div id="popup" class="popup">
+    <div class="popup-content">
+        <a href="#!" class="close-btn">&times;</a>
+        <img src="https://i.imgur.com/CkvLGRl.png" alt="Dr Adam Back">
+        <h3>Nicolas Turnbull</h3>
+        <p>Co-founder & Consultant</p>
+        <p>
+            I love trains
+        </p>
+    </div>
+</div>
